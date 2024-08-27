@@ -1,7 +1,12 @@
-body{
+body {
     background-color: orangered;
 }
 
-p{
+p {
     color: saddlebrown;
+}
+
+
+.sadt {
+    width: 50%;
 }
