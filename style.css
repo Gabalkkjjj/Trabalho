@@ -1,9 +1,14 @@
 body {
     background-color: orangered;
+    text-align: center;
+    margin: 0px;
 }
 
-p {
-    color: rgb(255, 230, 0);
+header{
+    border-bottom: 2px rgb(red, rgb(255, 230, 0), blue);
+padding: 30px;
+font-size: 50px;
+text-decoration: none;
 }
 
 .suruei {
